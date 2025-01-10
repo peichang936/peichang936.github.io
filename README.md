@@ -18,21 +18,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+## Hi! I'm Pei
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### About Me
+🌍 Based in the USA, I'm deeply immersed in the diverse and dynamic world of data science.  
+🧠 With a passion for transforming complex data into actionable insights, I specialize in machine learning, AI, big data analytics.  
+🔍 I'm particularly interested in supply chain management, e-commerce, retail, and wholesale industry.  
+📊 Experienced in leveraging data tools like Python, SQL, and Excel.  
+📚 Always eager to learn and collaborate, I'm on a constant quest to stay updated with the latest trends and advancements in data science.  
+🌟 I believe in the power of data to make informed decisions and drive meaningful change.  
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
