@@ -17,21 +17,7 @@
 This project showcases my expertise in leveraging work experience and data tools. The process includes loading a dataset from the Kaggle API into MySQL, building a Power BI dashboard for data visualization, and deriving business insights in sales and supply chain management.
 
 ---
-#### [Machine Learning: Flight Prices Predication](/projects/FlightPricesPred.md)
-<img src="./images/fligh-price-pred/flight-price-pred.gif?raw=true"/>
-Predicting Flight Prices using PySpark’s MLlib
-
----
-#### [SQL Query: Video Games Analysis](/projects/video-games.md)
-<img src="./images/video-game/video-games-golden-era-cover.gif?raw=true"/>
-When Was the Golden Era of Video Games?
-
----
-#### [Python: Web Scraping Amazon Kindle Prices](/projects/WebScraping.md)
-<img src="./images/web-scraping/web-scraping.gif?raw=true"/>
-Track the things you like when their price drop
-
-
-
-
+#### [AI Insights Redefining Supply Chain Agility in E-Commerce](https://www.linkedin.com/pulse/ai-insights-redefining-supply-chain-agility-pei-chang-pmp-tsgac)
+[<img src="./images/ai.png?raw=true"/>](https://www.linkedin.com/pulse/ai-insights-redefining-supply-chain-agility-pei-chang-pmp-tsgac)
+This project showcases my ability to leverage AI-driven data collection and chatbot development to enhance consumer insights and drive supply chain efficiency. I demonstrated expertise in applying predictive analytics and automation to reduce overproduction, minimize waste, and streamline inventory management.
 
