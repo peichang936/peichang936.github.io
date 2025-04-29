@@ -1,9 +1,19 @@
-title: Larry Chen
-logo: "/images/bio_photo.png?raw=true" # your photo (or logo) here
+title: Pei C
+logo: "/images/Pei.jpg?raw=true" # your photo (or logo) here
 description: >
-  Data Scientist, CPA, and Ramen Lover. 
+  Data enthusiast, PMP, and Dog Lover. 
   <br>
   <br>
-  <a href="https://www.linkedin.com/in/larrychencpa/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/peichang23/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
+
+
+show_downloads: false
+google_analytics: ""
+author:
+  name: "Pei Chang"
+  email: "tranquil936@gmail.com"
+
+
+  markdown: kramdown
