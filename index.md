@@ -12,9 +12,9 @@
 
 ---
 ### Learn About My Projects
-#### [Data Engineering: Loan And Credit Card ETL Project]([https://larrychencode.github.io/](https://www.linkedin.com/pulse/loan-credit-card-etl-project-larry-chen-liqne/))
-[<img src="./images/Loan And Credit Card ETL Project.png?raw=true"/>](https://www.linkedin.com/pulse/loan-credit-card-etl-project-larry-chen-liqne/)
-This project showcases my skills and knowledge in managing an ETL process for Loan Application and Credit Card datasets. Using Python, Apache Spark, SQL, and various Python libraries, I demonstrated my ability to handle data extraction, transformation, loading, and visualization.
+#### [Automotive Market Insights: Sales and Supply Chain Analysis](https://www.linkedin.com/pulse/us-automotive-market-insights-sales-supply-chain-pei-chang-pmp-rsexc)
+[<img src="./images/car.png?raw=true"/>](https://www.linkedin.com/pulse/us-automotive-market-insights-sales-supply-chain-pei-chang-pmp-rsexc)
+This project showcases my expertise in leveraging work experience and data tools. The process includes loading a dataset from the Kaggle API into MySQL, building a Power BI dashboard for data visualization, and deriving business insights in sales and supply chain management.
 
 ---
 #### [Machine Learning: Flight Prices Predication](/projects/FlightPricesPred.md)
